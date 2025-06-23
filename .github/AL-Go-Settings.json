@@ -12,5 +12,6 @@
       "projects": "*",
       "authTokenSecret": "ghTokenWorkflow"
     }
-  ]
+  ],
+  "templateSha": "2ccbee83976511ece8583dc63746a84e7cf50e45"
 }

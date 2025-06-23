@@ -1,10 +1,14 @@
 {
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.2/settings.schema.json",
-  "country": "us",
+  "$schema": "https://raw.githubusercontent.com/TRASER-Software-GmbH/AL-Go-Actions/v7.2/settings.schema.json",
+  "country": "de",
   "appSourceCopMandatoryAffixes": [
-    "<affix>"
+    "TRASER"
   ],
-  "appFolders": [],
-  "testFolders": [],
+  "appFolders": [
+    "TRASERConsumerApp"
+  ],
+  "testFolders": [
+    "TRASERConsumerApp.Test"
+  ],
   "bcptTestFolders": []
 }

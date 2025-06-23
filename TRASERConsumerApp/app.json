@@ -1,0 +1,45 @@
+{
+  "id": "11111111-2222-3333-4444-555555555555",
+  "name": "TRASER Consumer Application",
+  "publisher": "TRASER Software GmbH",
+  "version": "1.0.0.0",
+  "brief": "Consumer application demonstrating dependency on TRASER Core Library",
+  "description": "This application demonstrates how to consume and use the TRASER Core Library in a Business Central extension.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fdf340d3f",
+      "name": "Base Application",
+      "publisher": "Microsoft",
+      "version": "24.0.0.0"
+    },
+    {
+      "id": "e3d1b010-7f32-4370-9d80-0cb7e304b6f0",
+      "name": "System Application",
+      "publisher": "Microsoft",
+      "version": "24.0.0.0"
+    },
+    {
+      "id": "12345678-1234-1234-1234-123456789012",
+      "name": "TRASER Core Library",
+      "publisher": "TRASER Software GmbH",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 72000,
+      "to": 72999
+    }
+  ],
+  "contextSensitiveHelpUrl": "",
+  "showMyCode": true,
+  "runtime": "12.0"
+}

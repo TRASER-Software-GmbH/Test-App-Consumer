@@ -1,0 +1,51 @@
+{
+  "id": "22222222-3333-4444-5555-666666666666",
+  "name": "TRASER Consumer Application Test",
+  "publisher": "TRASER Software GmbH",
+  "version": "1.0.0.0",
+  "brief": "Test suite for TRASER Consumer Application functionality",
+  "description": "Contains automated tests for validating TRASER Consumer Application functions and integration with Core Library.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fdf340d3f",
+      "name": "Base Application",
+      "publisher": "Microsoft",
+      "version": "24.0.0.0"
+    },
+    {
+      "id": "e3d1b010-7f32-4370-9d80-0cb7e304b6f0",
+      "name": "System Application",
+      "publisher": "Microsoft",
+      "version": "24.0.0.0"
+    },
+    {
+      "id": "12345678-1234-1234-1234-123456789012",
+      "name": "TRASER Core Library",
+      "publisher": "TRASER Software GmbH",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "11111111-2222-3333-4444-555555555555",
+      "name": "TRASER Consumer Application",
+      "publisher": "TRASER Software GmbH",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 73000,
+      "to": 73999
+    }
+  ],
+  "contextSensitiveHelpUrl": "",
+  "showMyCode": true,
+  "runtime": "12.0"
+}
